@@ -11,7 +11,7 @@ $ pip install selenium
 ### Prior Set Up
 - Context.txt contains a dictionary format texts. Fill in the empty string item for key 'username' and 'password'. ex
     ```sh
-    {'username': '', 'user_name': '', 'password': 'pass'}
+    {'username': 'user_name', 'password': 'pass'}
     ```
 - Make sure all of your context.txt, uploadfiles.py, and the document you are uploading are in the same directory
 
